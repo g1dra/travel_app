@@ -1,0 +1,17 @@
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.deps.json
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\ref\Travel.Shared.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.pdb
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.pdb
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.pdb
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.AssemblyReference.cache
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfoInputs.cache
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfo.cs
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.CopyComplete
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\ref\Travel.Shared.dll
+C:\Users\darko\RiderProjects\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.pdb

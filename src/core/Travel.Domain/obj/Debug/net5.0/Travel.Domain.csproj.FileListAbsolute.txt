@@ -1,0 +1,12 @@
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\bin\Debug\net5.0\Travel.Domain.deps.json
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\bin\Debug\net5.0\Travel.Domain.dll
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\bin\Debug\net5.0\ref\Travel.Domain.dll
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\bin\Debug\net5.0\Travel.Domain.pdb
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.csproj.AssemblyReference.cache
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.AssemblyInfoInputs.cache
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.AssemblyInfo.cs
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.dll
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\ref\Travel.Domain.dll
+C:\Users\darko\RiderProjects\Travel\src\core\Travel.Domain\obj\Debug\net5.0\Travel.Domain.pdb
