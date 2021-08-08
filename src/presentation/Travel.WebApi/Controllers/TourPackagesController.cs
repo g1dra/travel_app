@@ -46,6 +46,7 @@ namespace Travel.WebApi.Controllers
             return Ok(tourPackage);
         }
 
+        [HttpPut("{id:int}")]
         public async Task<IActionResult> Update([FromRoute] int id, [FromBody] TourPackage tourPackage)
         {
             _context.Update(tourPackage);
